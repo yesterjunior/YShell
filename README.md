@@ -1,5 +1,7 @@
 # README
 
+[![Ruqb2d.png](https://z3.ax1x.com/2021/06/23/Ruqb2d.png)](https://imgtu.com/i/Ruqb2d)
+
 > 本程序一种类似shell命令解释器，shell 是一个用 C 语言编写的程序，它是用户使用 Linux 的桥梁。命令解释器shell提供了一个界面，用户通过这个界面访问操作系统内核的服务。本程序从控制台启动后可以完成用户输入的各种命令。
 
 初次使用请先阅读doc/目录下的YSHELL用户手册！
